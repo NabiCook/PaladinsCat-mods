@@ -2,7 +2,7 @@
 
 Requires Tempest Launcher.
 
-1. Download and extract the [release ZIP](https://github.com/PaladinsCat/PaladinsCat-mods/releases/latest).
+1. Download and extract the [release ZIP](https://github.com/NabiCook/PaladinsCat-mods/releases/latest).
 2. Exit Paladins.
 3. Run:
 
